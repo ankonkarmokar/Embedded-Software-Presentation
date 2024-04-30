@@ -1,2 +1,2 @@
-# embedded_software_presentation
+# Embedded Software Presentation
 Embedded software is used to control the functions of hardware devices.
